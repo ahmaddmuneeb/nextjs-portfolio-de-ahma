@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2000/svg">
+    <xs:element name="svg">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="metadata" type="xs:string" />
+                <xs:element name="g">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="path" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:attribute name="d" use="required" />
+                                    <xs:attribute name="fill" use="required" />
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="clip-path" use="required" />
+                        <xs:attribute name="transform" use="required" />
+                        <xs:attribute name="fill" use="required" />
+                        <xs:attribute name="stroke" use="required" />
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="defs" />
+            </xs:sequence>
+            <xs:attribute name="version" type="xs:decimal" use="required" />
+            <xs:attribute name="width" use="required" />
+            <xs:attribute name="height" use="required" />
+            <xs:attribute name="viewBox" use="required" />
+            <xs:attribute name="preserveAspectRatio" use="required" />
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
