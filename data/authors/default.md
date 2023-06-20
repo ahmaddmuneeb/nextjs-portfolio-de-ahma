@@ -1,7 +1,7 @@
 ---
 name: Muneeb Ahmad
 avatar: /static/images/profile.jpg
-occupation: Software Engineer
+occupation: Software Engineer | Enterpreneur
 company: Virtuous Stack
 email: ahmaddmuneeb@gmail.com
 twitter: https://twitter.com/ahmaddmuneeb
@@ -63,15 +63,14 @@ Creation of a software agency in the form of a micro-enterprise. That supports s
 
 ### Hard Skills:
 
-- 🇬🇧 English
-- 🤹🏼‍♂️ Project Management
+- 📱 Mobile Application Development
 - 🌐 Web development
-- 💻 Digital Marketing
+- 🤹🏼‍♂️ Project Management
 - 🎨 Adobe Illustrator | XD | Figma
-- 🔍 SEO
+- 💻 Digital Marketing
+- 🔍 SEO & SMM
 - 📊 Ecommerce Development
 - 📨 E-CRM Management
-- 📱 Mobile Application Development
 
 ### Soft Skills:
 
