@@ -1,6 +1,6 @@
 ---
 name: Muneeb Ahmad
-avatar: /static/images/myLogo.png
+avatar: /static/images/progile.jpg
 occupation: Software Engineer
 company: Virtuous Stack
 email: ahmaddmuneeb@gmail.com
@@ -19,62 +19,59 @@ Graduated from a **Master in Management** at Excelia Business School, I am passi
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Software Engineer | Tech Lead @**[WAAB SRL](https://waab.it)**
 
-`Oct 2021 - Today`
+`Sep 2020 - Present`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+Responsible for **the acquisition and development of the SAAS Product, Nubble** in order to develop the activity and e-commerce sales in Italy and internationally.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+### Software Engineer @[Markitech](https://markitech.ca)
 
-`Sept 2019 - Sept 2020`
+`Oct 20222 - Present`
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
+Participation in the implementation of a major feature and BLE Devices integration plan for the Health of seniors in order to **develop the network of Seniors and Cartakers.**
 
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
+### Frontend Lead Developer @[Blackstack Software Solutions](https://bkstack.com)
 
-`Jan 2019 - Jul 2019`
+`March 2022 - Oct 2022`
 
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
+As part of the BKS team and under the responsibility of the Frontend Lead, I participate in the launch and follow-up of **various projects** for US based clients for their SAAS products.
 
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
+### Associate Software Engineer @[The Webie Storms](https://www.thewebstorms.com)
 
-`Jul 2018 - Jan 2019`
+`Oct 2021 - Mar 2021`
 
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
+Support to the Digital watch product with BLE and WIFI device integration of the product of a well-known **US digital marketing company in international market.**
 
 ## Side Project
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+### Cofounder & CEO @[Virtuousstack Software Solutions]()
 
-`Sept 2017 - Today`
+`Dec 2022 - Present`
 
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
+Creation of a software agency in the form of a micro-enterprise. That supports self-employed and small business in its **digital transition.**
 
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+- Main clients : WAAR SRL, Demski Groups, Wanroi, (Kyle U)...
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Bachelors in Software Engineering @[FCIT (formerly PUCIT)](https://fcit.edu.pk)
 
-`Sept 2016 - Sept 2020`
-
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+`Nov 2017 - Feb 2021`
 
 ## Skills
 
 ### Hard Skills:
 
 - 🇬🇧 English
-- 🇪🇸 Spanish
 - 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
+- 🌐 Web development
 - 💻 Digital Marketing
-- 🎨 Adobe CC
+- 🎨 Adobe Illustrator | XD | Figma
 - 🔍 SEO
-- 📊 Microsoft 365
+- 📊 Ecommerce Development
 - 📨 E-CRM Management
-- 📱 Social Media Management
+- 📱 Mobile Application Development
 
 ### Soft Skills:
 
@@ -92,25 +89,3 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 |                                            |                                         |
 | ------------------------------------------ | --------------------------------------- |
 | ![Bodyboarding](/static/images/mylogo.png) | ![Wave](/static/images/wave-france.jpg) |
-
-### Others:
-
-- 🗺️ Discovery and Traveling
-- 📷 Photography
-- 🎶 Music
-- ♟️ Chess ➡️ [Chess.com]
-
-### Humanitarian:
-
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
