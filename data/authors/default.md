@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/ahmaddmuneeb
 github: https://github.com/ahmaddmuneeb
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Graduated from a **Bachelors of Software Engineering** at FCIT (formerly PUCIT), I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of latest market demands, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
 
 - [💼 Experience](#experience)
 - [🧑🏻‍💻 Side Project](#side-project)
@@ -55,7 +55,7 @@ Creation of a software agency in the form of a micro-enterprise. That supports s
 
 ## Education
 
-### Bachelors in Software Engineering @[FCIT (formerly PUCIT)](https://fcit.edu.pk)
+### Bachelors in Software Engineering @[FCIT (formerly PUCIT)](https://pucit.edu.pk/)
 
 `Nov 2017 - Feb 2021`
 
@@ -81,5 +81,5 @@ Creation of a software agency in the form of a micro-enterprise. That supports s
 
 ### Sports:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
+- 🏏 Cricket
 - 🏊🏼‍♂️ Swimming
