@@ -1,6 +1,6 @@
 ---
 name: Muneeb Ahmad
-avatar: /static/images/progile.jpg
+avatar: /static/images/profile.jpg
 occupation: Software Engineer
 company: Virtuous Stack
 email: ahmaddmuneeb@gmail.com
@@ -79,13 +79,7 @@ Creation of a software agency in the form of a micro-enterprise. That supports s
 - 📚 Curious
 - 🤝🏼 Team Spirit
 
-## Interests
-
 ### Sports:
 
 - 🏄🏽‍♂️ Bodyboarding & Surfing
 - 🏊🏼‍♂️ Swimming
-
-|                                            |                                         |
-| ------------------------------------------ | --------------------------------------- |
-| ![Bodyboarding](/static/images/mylogo.png) | ![Wave](/static/images/wave-france.jpg) |
